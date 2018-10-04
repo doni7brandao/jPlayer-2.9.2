@@ -1,31 +1,31 @@
-# [jPlayer](http://jplayer.org/) : HTML5 Audio & Video for [jQuery](http://jquery.com/)
+# [jPlayer](http://jplayer.org/) : HTML5 Audio & Video para [jQuery](http://jquery.com/)
 
-Support for [Zepto](http://zeptojs.com/) 1.0+ compiled with the data module.
+Suporte para [Zepto](http://zeptojs.com/) 1.0+ compilado com módulo de dados.
 
-## What is jPlayer?
+## O que é o jPlayer?
 
-### jPlayer is a jQuery/Zepto plugin that allows you to:
-* **play and control media** files in your webpage.
-* create a **consistent interface** and experience across all browsers.
-* create and style a media player using **just HTML and CSS**.
-* add **audio** and **video** to your jQuery/Zepto projects.
-* support more devices using **HTML5**.
-* support older browsers using a Flash _fall-back/forward_.
-* control media on your website using a [JavaScript API](http://www.jplayer.org/latest/developer-guide/).
+### jPlayer é um plugin jQuery/Zepto que permite:
+* **reproduzir e controlar** arquivos de **mídia** em sua página da web.
+* criar uma **interface e experiência consistente** em todos os navegadores.
+* criar e estilizar uma media player usando **apenas HTML e CSS**.
+* adicionar **áudio** e **vídeo** aos seus projetos jQuery/Zepto.
+* suporta mais dispositivos utilizando o **HTML5**.
+* suprte a navegadores mais antigos usando um recuro de _retorno/encaminhamento_ do Flash.
+* controlar a mídia em seu site usando uma [API JavaScript](http://www.jplayer.org/latest/developer-guide/).
 
-### jPlayer supports:
+### jPlayer suporta:
 * HTML5: **mp3, m4a (AAC), m4v (H.264),** ogv*, oga*, wav*, webm*
 * Flash: **mp3, m4a (AAC), m4v (H.264),** rtmp, flv.
 
-_(*) Optional counterpart formats to increase HTML5 cross-browser support._
+_(*)  Formatos opcionais de contrapartida para aumentar o suporte ao navegador HTML5._
 
-## Bower Install
-* simple install using `bower install jplayer`
-* see <http://bower.io/> for more information.
+## Instalação do Bower
+* instalação simples usando `bower install jplayer`
+* veja <http://bower.io/> para mais informações.
 
-## Composer install
+## Instalção do Composer
 
-Install jPlayer via composer by adding the following lines to your `composer.json` in your project:
+Instale o jPlayer via composer adicionando as seguintes linhas ao seu `composer.json` no seu projeto:
 
     // ...
     "require": {
@@ -39,20 +39,20 @@ Install jPlayer via composer by adding the following lines to your `composer.jso
     },
     // ...
 
-Then execute the following:
+Em seguida, execute o seguinte:
 
     php composer.phar update
 
-Composer will now download all components and install the needed files into `your/desired/asset/path`, ready to use.
+O Composer agora fará download de todos os componentes e instalará os arquivos necessários `your/desired/asset/path`, prontos para uso.
 
-## License
-[jPlayer](http://jplayer.org/) is licensed under the [MIT license](http://opensource.org/licenses/MIT).
+## Licença
+[jPlayer](http://jplayer.org/) é licenciado sob a licença do [MIT license](http://opensource.org/licenses/MIT).
 
-## More information:
+## Mais informações:
 * [jPlayer.org](http://jplayer.org/)
 * [Quick Start Guide](http://www.jplayer.org/latest/quick-start-guide/)
 * [Developer Guide and API Reference](http://www.jplayer.org/latest/developer-guide/)
 
-## Author:
+## Autor:
 Mark J Panaghiston [@thepag](http://twitter.com/thepag)
 [happyworm.com](http://happyworm.com/)
