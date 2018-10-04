@@ -23,7 +23,7 @@ _(*)  Formatos opcionais de contrapartida para aumentar o suporte ao navegador H
 * instalação simples usando `bower install jplayer`
 * veja <http://bower.io/> para mais informações.
 
-## Instalção do Composer
+## Instalação do Composer
 
 Instale o jPlayer via composer adicionando as seguintes linhas ao seu `composer.json` no seu projeto:
 
