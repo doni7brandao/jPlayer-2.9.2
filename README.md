@@ -57,7 +57,7 @@ O Composer agora fará download de todos os componentes e instalará os arquivos
 Mark J Panaghiston [@thepag](http://twitter.com/thepag)
 [happyworm.com](http://happyworm.com/)
 
-## Scripts alimentados a partir deste respositório: [baixagrandenews.com](https://baixagrandenews.com/)
+## Scripts alimentados a partir deste respositório para: [baixagrandenews.com](https://www.baixagrandenews.com/)
 * [Estilo CSS jPlayer](https://doni7brandao.github.io/jPlayer-2.9.2/dist/skin/pink.flag/css/jplayer.pink.flag.min.css)
 * [jquery.min.js](https://doni7brandao.github.io/jPlayer-2.9.2/lib/jquery.min.js)
 * [jquery.jplayer.min.js](https://doni7brandao.github.io/jPlayer-2.9.2/dist/jplayer/jquery.jplayer.min.js)
